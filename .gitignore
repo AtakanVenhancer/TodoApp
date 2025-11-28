@@ -1,0 +1,73 @@
+# Logs
+*.log
+
+# macOS
+.DS_Store
+*.DS_Store
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/app/.cxx/
+android/local.properties
+android/*.keystore
+!android/app/src/debug
+!android/app/src/release
+android/captures/
+
+# Android Kotlin / IntelliJ
+.gradle/
+.idea/
+*.iml
+*.hprof
+.cxx/
+*.keystore
+!debug.keystore
+.kotlin/
+kotlin/
+**/build/
+**/out/
+
+# Android Studio
+.idea/
+*.iml
+.gradle
+/cxx/
+
+# iOS
+ios/Pods/
+ios/DerivedData/
+ios/build/
+ios/.DS_Store
+ios/.xcode.env.local
+ios/GeneratedConfig.xcconfig
+
+# Xcode
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+**/.xcode.env.local
+
+# Kotlin-specific (ek düzenlemeler)
+**/.kotlin*
+**/*.kotlin_module
+**/kotlin-js-store/
+
+# Node / JS
+node_modules/
+npm-debug.log
+yarn-error.log
