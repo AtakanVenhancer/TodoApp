@@ -2,6 +2,8 @@
 
 Bu proje Kotlin ve JetBrains Compose kullanarak masaüstünde çalıştırabileceğin küçük ama kapsamlı bir örnek uygumadır. Amaç; çoklu dil desteği, basit navigasyon mantığı, state management yaklaşımı ve temel kullanıcı etkileşimlerini tek bir yerde göstermek.
 
+![img.png](img.png)
+
 ## İçerik
 - **Çoklu dil**: `Localization` objesi TR/EN metinlerini yönetir, `LocalePicker` bileşeni ile uygulama anında güncellenir.
 - **Navigasyon**: `Route` sealed interface ve `StateStore` içindeki `Action.Navigate` ile tek yerden yönetilen basit bir yönlendirme örneği.
