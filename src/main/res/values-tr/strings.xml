@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Compose Todo</string>
+    <string name="app_title">Compose Todo</string>
+    <string name="todo_title">Görevlerin</string>
+    <string name="todo_subtitle">Mobil Compose ile React Native\'e alternatif güçlü bir todo altyapısı.</string>
+    <string name="title_placeholder">Başlık</string>
+    <string name="note_placeholder">Not (opsiyonel)</string>
+    <string name="add_button">Ekle</string>
+    <string name="empty_todos">Henüz görev yok. Üstten hızlıca ekleyebilirsin.</string>
+    <string name="detail_title">Görev Detayı</string>
+    <string name="detail_fallback">Bu görev bulunamadı veya silindi.</string>
+    <string name="settings_title">Genel Ayarlar</string>
+    <string name="language_title">Dil</string>
+    <string name="delete">Sil</string>
+    <string name="back_to_list">Listeye dön</string>
+    <string name="list_comparison">React Native\'de benzer bir liste için FlatList + useState gerekirken Compose\'ta tek state store ile işler daha okunabilir.</string>
+    <string name="detail_comparison">React Native stack navigasyonuna karşı Compose\'ta sealed route veri sınıfı ile tip güvenli yönlendirme sağlanıyor.</string>
+    <string name="settings_comparison">React Native modül bağlamaları yerine Compose multiplatform doğrudan Kotlin kodu ile kontrol veriyor.</string>
+    <string name="visit_history">Navigasyon geçmişi</string>
+</resources>

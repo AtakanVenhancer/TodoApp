@@ -2,6 +2,7 @@
 
 Bu proje Kotlin ve JetBrains Compose kullanarak masaüstünde çalıştırabileceğin küçük ama kapsamlı bir örnek uygumadır. Amaç; çoklu dil desteği, basit navigasyon mantığı, state management yaklaşımı ve temel kullanıcı etkileşimlerini tek bir yerde göstermek.
 
+![img_1.png](img_1.png)
 ![img.png](img.png)
 
 ## İçerik

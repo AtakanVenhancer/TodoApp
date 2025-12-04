@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">KotlinGuideApp</string>
+    <string name="app_name">Compose Todo</string>
+    <string name="app_title">Compose Todo</string>
+    <string name="todo_title">Your Tasks</string>
+    <string name="todo_subtitle">A Kotlin-first todo flow that you can ship to mobile without React Native layers.</string>
+    <string name="title_placeholder">Title</string>
+    <string name="note_placeholder">Notes (optional)</string>
+    <string name="add_button">Add</string>
+    <string name="empty_todos">Nothing here yet. Start by adding a task above.</string>
+    <string name="detail_title">Task Detail</string>
+    <string name="detail_fallback">Task not found or already removed.</string>
+    <string name="settings_title">Settings</string>
+    <string name="language_title">Language</string>
+    <string name="delete">Delete</string>
+    <string name="back_to_list">Back to list</string>
+    <string name="list_comparison">React Native would rely on FlatList + hooks while Compose keeps the tree driven by a single state store.</string>
+    <string name="detail_comparison">Safe sealed routes replace imperative stack APIs you would wire in React Native.</string>
+    <string name="settings_comparison">No JS bridge layers like React Native; Compose keeps everything in Kotlin for mobile.</string>
+    <string name="visit_history">Visit history</string>
 </resources>
